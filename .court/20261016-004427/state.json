@@ -1,0 +1,31 @@
+{
+  "dir": ".court/20261016-004427",
+  "seed": 630601,
+  "jury": [
+    {
+      "name": "The Lawyer",
+      "lens": "You look for legal, regulatory and liability traps that the case does not mention."
+    },
+    {
+      "name": "The Small-Business Owner",
+      "lens": "You have run a shop for 20 years. Who does the work on Monday morning, where does the cash come from until it pays, and what happens in a slow month?"
+    },
+    {
+      "name": "The Investor",
+      "lens": "You weigh upside against risk. Would you put your own money into this exactly as described, and why or why not?"
+    },
+    {
+      "name": "The Retired Judge",
+      "lens": "You care about the burden of proof. Is the evidence actually in the record, or is it hope dressed up as fact?"
+    },
+    {
+      "name": "The Engineer",
+      "lens": "You build things. Can this actually be made, does it work in the real world, and what breaks first when it grows?"
+    },
+    {
+      "name": "The Teenager",
+      "lens": "You are blunt and easily bored. Would anyone care about this, talk about it, or come back to it next week?"
+    }
+  ],
+  "created": "2026-10-16T00:44:27"
+}
