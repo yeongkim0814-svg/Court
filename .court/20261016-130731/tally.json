@@ -1,0 +1,50 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 5,
+  "not_guilty": 1,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Parent",
+      "vote": "NOT GUILTY",
+      "reason": "As a parent I see a teenager risking at most 500,000 KRW and mostly their own spare time, with every open question (store, payout, guardian consent) written into the plan as an approval step, so the plan is risky but not reckless.",
+      "fact": "The plan requires \"no spending, publishing, account creation or external sending without user approval\" and confirming \"minors' payout eligibility with a guardian\", and the spend is capped at 500,000 KRW.",
+      "flip": "The Godot store (or any channel the user can really use) turned out to bar minors or not pay them, or the guardian refused, leaving no lawful way to collect the money."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "GUILTY",
+      "reason": "As a shop owner I would not open the doors when I don't know which store I'm selling in, whether it will let me sell or pay me, or whether the one person doing all the work can even run the tools, and a $9.99 add-on competing with $5 and free rivals has no shown path to 1,000,000 KRW.",
+      "fact": "The record says the store's rules, fees, paid-item policy, and payout and age conditions are unverified, and the user's age, guardian consent and payout route are \"NOT yet stated\", so there is no confirmed place to sell and no confirmed way to collect money.",
+      "flip": "The user named the exact store and showed in writing that it allows paid items from a minor and can pay out to the user or a consenting guardian, with Godot confirmed running in the container."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "The case asks me to accept that 1,000,000 KRW is reachable, but the record holds hope rather than proof on the sales channel, the payout route for a minor, paid demand and whether the product can even be built and tested, and the defense itself concedes each of these.",
+      "fact": "The record says the store's rules, fees, paid-item policy, and the payout and age conditions are \"not verified\", and the user's age, guardian consent and payout route are \"NOT yet stated\", so the revenue path that the earlier GUILTY 6-0 verdict turned on is still unproven.",
+      "flip": "The user showed in the record that the Godot store allows paid items from a minor, with a confirmed guardian-approved payout route in Korea and fee terms under which the planned price reaches 1,000,000 KRW at a stated, plausible unit count."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "As a buyer I can already get a free PSX shader or a paid one for $4.99 to $5.99, so I would not pay about $9.99 for a first release from someone with no track record, and the plan itself admits it has no evidence anyone will pay.",
+      "fact": "The record lists rivals at \"free / pay what you want\", $5.99, $4.99 and $4.99, against a $9.99 reference price, and the plan \"states there is no evidence yet of paid demand.\"",
+      "flip": "The case showed real paying demand at $9.99, such as buyers who said they would pay it over the cheaper rivals, together with a confirmed store and payout route the user can legally use."
+    },
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "I follow the money and cannot find who pays, how much or when: the store, its fees and the payout route for a minor are all unverified, and nothing in the record links the 1,000,000 KRW target to a number of buyers at $4.99 to $9.99.",
+      "fact": "The record says the Godot store's rules, fees, paid-item policy, and payout and age conditions are \"not verified\", the user's age, guardian consent and payout route are \"NOT yet stated\", and the defense conceded this, so no revenue or net-income figure can be built from the record.",
+      "flip": "The case named a verified sales channel that allows paid items, with its fee and a payout route the user is eligible for (guardian consent stated), plus a break-even unit count showing 1,000,000 KRW is reachable at the planned prices."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "GUILTY",
+      "reason": "As a rival seller I would ignore this, because a free Lite tier and a $9.99 Pro from a first-time builder cannot beat a free pay-what-you-want PSX shader and $4.99 to $5.99 packs, and I could copy any feature in a weekend.",
+      "fact": "The plan's own competitor list shows a free or pay-what-you-want PSX shader plus paid packs at $4.99 to $5.99, against a $9.99 reference price, with the plan stating there is no evidence yet of paid demand.",
+      "flip": "The plan named a feature rivals lack that buyers have asked for, with proof that at least a few people would pay for it, and the store, fees and a minor's payout route were confirmed."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: I follow the money and cannot find who pays, how much or when: the store, its fees and the payout route for a minor are all unverified, and nothing in the record links the 1,000,000 KRW target to a number of buyers at $4.99 to $9.99.
+DECIDING FACT: The record says the Godot store's rules, fees, paid-item policy, and payout and age conditions are "not verified", the user's age, guardian consent and payout route are "NOT yet stated", and the defense conceded this, so no revenue or net-income figure can be built from the record.
+WOULD FLIP IF: The case named a verified sales channel that allows paid items, with its fee and a payout route the user is eligible for (guardian consent stated), plus a break-even unit count showing 1,000,000 KRW is reachable at the planned prices.

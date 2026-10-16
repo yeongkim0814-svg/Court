@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: The case asks me to accept that 1,000,000 KRW is reachable, but the record holds hope rather than proof on the sales channel, the payout route for a minor, paid demand and whether the product can even be built and tested, and the defense itself concedes each of these.
+DECIDING FACT: The record says the store's rules, fees, paid-item policy, and the payout and age conditions are "not verified", and the user's age, guardian consent and payout route are "NOT yet stated", so the revenue path that the earlier GUILTY 6-0 verdict turned on is still unproven.
+WOULD FLIP IF: The user showed in the record that the Godot store allows paid items from a minor, with a confirmed guardian-approved payout route in Korea and fee terms under which the planned price reaches 1,000,000 KRW at a stated, plausible unit count.
